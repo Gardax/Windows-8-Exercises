@@ -1,0 +1,18 @@
+﻿<div class="computer-template">
+    <img src="#" data-win-bind="src: imageUrl" height="300" width="300" />
+    <dl>
+        <dt>Name</dt>
+        <dd><input type="text" data-win-bind="innerText: name"></dd>
+        <dt>Price</dt>
+        <dd><span>$</span><input type="text" data-win-bind="innerText: price"></dd>
+        <dt>Processor</dt>
+        <dd>
+            <dl>
+                <dt>Model</dt>
+                <dd><input type="text" data-win-bind="innerText: processor.modelName"></dd>
+                <dt>Frequency</dt>
+                <dd><input type="text" data-win-bind="innerText: processor.frequencyGHz"></dd>
+            </dl>
+        </dd>
+    </dl>
+</div>

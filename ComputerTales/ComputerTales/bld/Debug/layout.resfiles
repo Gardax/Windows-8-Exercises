@@ -1,0 +1,17 @@
+css\default.css
+default.html
+images\logo.png
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
+js\dataLayer.js
+js\default.js
+js\navigator.js
+pages\computerDetails.css
+pages\computerDetails.html
+pages\computerDetails.js
+pages\home\commands.js
+pages\home\home.css
+pages\home\home.html
+pages\home\home.js
+pages\home\homePageViewModel.js

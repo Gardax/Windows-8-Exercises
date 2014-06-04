@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGI</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>ED7CC2A3E2176EBCB8800BA61F9A9D6A024BA7F501D14151A5D166F7AEC7E601</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45a4611a-2c2b-4bf9-a7fa-163498efbc8c_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45a4611a-2c2b-4bf9-a7fa-163498efbc8c_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45a4611a-2c2b-4bf9-a7fa-163498efbc8c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-29T08:14:38.750</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-29T08:46:56.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-08-29T08:48:02.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ListViewHomework\ListViewHomework\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-29T08:14:38.563</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

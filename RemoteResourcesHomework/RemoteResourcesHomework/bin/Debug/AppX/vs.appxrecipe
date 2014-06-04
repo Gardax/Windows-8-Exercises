@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGI</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A529C900FE0DC233CEC1DD93035BF2A347F317BC0E99C999B3D2CA72B1A1F22C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6991e5ae-fb4a-4285-b087-cdc300428b2d_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6991e5ae-fb4a-4285-b087-cdc300428b2d_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6991e5ae-fb4a-4285-b087-cdc300428b2d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-30T13:49:01.036</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-30T13:48:58.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-30T14:04:12.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-30T13:50:11.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\RemoteResourcesHomework\RemoteResourcesHomework\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-30T13:49:00.606</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bin\Debug\resources.pri
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bin\Debug\AppxManifest.xml
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bin\Debug\AsinchroniusPrograming.build.appxrecipe
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bld\Debug\priconfig.xml
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bld\Debug\layout.resfiles
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bld\Debug\resources.resfiles
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bld\Debug\pri.resfiles
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bld\Debug\LanguageQualifiers.txt
+C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bld\Debug\ProjectArchitectures.txt

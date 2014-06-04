@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGI</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B622E63BF64C4E215FF100A853D55B1E0DAD1A8DDA3D6D6C801F89B1984E9AAE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>eef0f339-566e-40bd-ae54-805bcc48626a_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>eef0f339-566e-40bd-ae54-805bcc48626a_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>eef0f339-566e-40bd-ae54-805bcc48626a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-23T11:24:08.552</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-23T11:25:13.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\js\Cucumber.js">
+      <PackagePath>js\Cucumber.js</PackagePath>
+      <Modified>2013-08-23T11:14:05.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\js\GMO.js">
+      <PackagePath>js\GMO.js</PackagePath>
+      <Modified>2013-08-23T11:24:07.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-23T11:26:07.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\js\mushroomMixin.js">
+      <PackagePath>js\mushroomMixin.js</PackagePath>
+      <Modified>2013-08-23T11:19:18.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\js\Tomato.js">
+      <PackagePath>js\Tomato.js</PackagePath>
+      <Modified>2013-08-23T11:14:05.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\js\Vegetable.js">
+      <PackagePath>js\Vegetable.js</PackagePath>
+      <Modified>2013-08-23T11:12:17.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\WinJsClassesAndNamespaces\WinJsClassesAndNamespaces\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-23T11:24:08.363</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

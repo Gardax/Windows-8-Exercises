@@ -1,0 +1,13 @@
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bin\Debug\resources.pri
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bin\Debug\AppxManifest.xml
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bin\Debug\RepeaterControl.build.appxrecipe
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\priconfig.xml.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\layout.resfiles.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\resources.resfiles.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\pri.resfiles.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\priconfig.xml
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\layout.resfiles
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\resources.resfiles
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\pri.resfiles
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\LanguageQualifiers.txt
+C:\Users\Georgi\Desktop\RepeaterControl\RepeaterControl\bld\Debug\ProjectArchitectures.txt

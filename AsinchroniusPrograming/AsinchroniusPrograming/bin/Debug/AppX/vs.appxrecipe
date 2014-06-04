@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGI</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>9273E6B2A4F9327CFBB9050DF1397035A91214F51B62B9A748BFAD78EFDFB0AB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>aa6654f3-2a73-426d-9afc-afe1fd645030_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>aa6654f3-2a73-426d-9afc-afe1fd645030_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>aa6654f3-2a73-426d-9afc-afe1fd645030</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-23T14:33:00.357</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-23T14:40:31.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\js\calculateFirstNPrimes.js">
+      <PackagePath>js\calculateFirstNPrimes.js</PackagePath>
+      <Modified>2013-08-25T19:04:55.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\js\calculatePrimesInRange.js">
+      <PackagePath>js\calculatePrimesInRange.js</PackagePath>
+      <Modified>2013-08-25T19:02:52.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\js\calculatePrimesToN.js">
+      <PackagePath>js\calculatePrimesToN.js</PackagePath>
+      <Modified>2013-08-23T14:32:59.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-25T19:04:03.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\js\PrimeNumbersCalculator.js">
+      <PackagePath>js\PrimeNumbersCalculator.js</PackagePath>
+      <Modified>2013-08-23T14:32:59.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\AsinchroniusPrograming\AsinchroniusPrograming\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-23T14:33:00.184</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

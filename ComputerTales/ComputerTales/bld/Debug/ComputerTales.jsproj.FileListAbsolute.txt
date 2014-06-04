@@ -1,0 +1,13 @@
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bin\Debug\resources.pri
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bin\Debug\AppxManifest.xml
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bin\Debug\ComputerTales.build.appxrecipe
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\priconfig.xml.intermediate
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\layout.resfiles.intermediate
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\resources.resfiles.intermediate
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\pri.resfiles.intermediate
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\priconfig.xml
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\layout.resfiles
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\resources.resfiles
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\pri.resfiles
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\LanguageQualifiers.txt
+C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bld\Debug\ProjectArchitectures.txt

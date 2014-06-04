@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGI</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F57058A400D26A4B2739E3337BC49D9E9109A5689EB677FA2BB70201D90CAB13</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>95a51129-4bc3-4a6a-ad8b-9f42372f7f8e_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>95a51129-4bc3-4a6a-ad8b-9f42372f7f8e_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>95a51129-4bc3-4a6a-ad8b-9f42372f7f8e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-28T11:45:12.658</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-28T10:46:51.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\computerDetails.css">
+      <PackagePath>pages\computerDetails.css</PackagePath>
+      <Modified>2013-08-28T11:01:21.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-08-28T10:46:51.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\js\dataLayer.js">
+      <PackagePath>js\dataLayer.js</PackagePath>
+      <Modified>2013-08-28T11:58:01.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-28T10:46:51.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-08-28T10:46:52.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\computerDetails.js">
+      <PackagePath>pages\computerDetails.js</PackagePath>
+      <Modified>2013-08-28T11:08:30.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\home\commands.js">
+      <PackagePath>pages\home\commands.js</PackagePath>
+      <Modified>2013-08-28T11:58:26.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-08-28T10:46:52.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\home\homePageViewModel.js">
+      <PackagePath>pages\home\homePageViewModel.js</PackagePath>
+      <Modified>2013-08-28T11:45:11.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\computerDetails.html">
+      <PackagePath>pages\computerDetails.html</PackagePath>
+      <Modified>2013-08-28T11:01:21.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-08-28T11:45:11.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-28T11:17:05.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Georgi\Desktop\ComputerTales\ComputerTales\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-28T11:45:12.490</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

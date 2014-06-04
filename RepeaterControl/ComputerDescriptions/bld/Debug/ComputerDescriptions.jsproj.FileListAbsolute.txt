@@ -1,0 +1,13 @@
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bin\Debug\resources.pri
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bin\Debug\AppxManifest.xml
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bin\Debug\ComputerDescriptions.build.appxrecipe
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\priconfig.xml.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\layout.resfiles.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\resources.resfiles.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\pri.resfiles.intermediate
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\priconfig.xml
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\layout.resfiles
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\resources.resfiles
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\pri.resfiles
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\LanguageQualifiers.txt
+C:\Users\Georgi\Desktop\RepeaterControl\ComputerDescriptions\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>AsinchroniusPrograming</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- AsinchroniusPrograming references -->
+    <script src="js/calculateFirstNPrimes.js"></script>
+    <script src="js/calculatePrimesInRange.js"></script>
+    <script src="js/calculatePrimesToN.js"></script>
+    <script src="js/PrimeNumbersCalculator.js"></script>
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div><h1>Calculate primes to N</h1>
+        <input type="text" id="primesTo-N" placeholder="Type number..." />
+        <button id="calculatePrimesToN">Calculate</button>
+        <div id="result" width="90%"></div>
+    </div><br><br>
+    <div><h1>Calculate first N primes </h1>
+        <input type="text" id="firstPrimes-N" placeholder="Type number of primes..." />
+        <button id="calculateFirstNPrimes">Calculate</button>
+        <div id="result2"></div>
+    </div><br><br>
+    <div><h1>Calculate primes in range N,M</h1>
+        <input type="text" id="primesInRange-start" placeholder="From..." />
+        <input type="text" id="primesInRange-end" placeholder="To..." />
+        <button id="calculatePrimesInRange">Calculate</button>
+        <div id="result3"></div>
+    </div>
+</body>
+</html>

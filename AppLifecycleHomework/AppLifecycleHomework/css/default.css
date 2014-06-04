@@ -1,0 +1,38 @@
+﻿body {
+}
+#poemText
+{
+    height:99%;
+    width: 99%;
+}
+#poem
+{
+    float:right;
+    height:70%;
+    overflow: scroll;
+    width: 45%;
+    border: 1px solid white;
+}
+#container
+{
+    height:70%;
+    width:40%;
+    float:left;
+    position: relative;
+}
+.clear
+{
+    clear:both;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

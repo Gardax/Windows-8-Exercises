@@ -1,0 +1,13 @@
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bin\Release\resources.pri
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bin\Release\AppxManifest.xml
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bin\Release\ExpressionsCalculator.build.appxrecipe
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\priconfig.xml.intermediate
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\layout.resfiles.intermediate
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\resources.resfiles.intermediate
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\pri.resfiles.intermediate
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\priconfig.xml
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\layout.resfiles
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\resources.resfiles
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\pri.resfiles
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\LanguageQualifiers.txt
+C:\Users\Georgi\Desktop\ExpressionsCalculator\ExpressionsCalculator\bld\Release\ProjectArchitectures.txt
